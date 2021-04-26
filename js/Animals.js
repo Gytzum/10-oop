@@ -10,7 +10,7 @@ class Animals{
         this.name = name;
         this.color = color;
         this.sound = `Doesn't say anything`
-        this.wingsCount = 2;
+        this.wingsCount = 0;
         this.canFly= false;
         this.imposter=false;
         this.canSwim = false;

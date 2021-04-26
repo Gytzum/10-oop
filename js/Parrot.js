@@ -9,7 +9,7 @@ class Parrot extends Birds{
     constructor (name,color){
         super (name, color)
         this.sound = 'I am a captain' + ' ' +name;
-        this.canFly= true;
+
     }
 }
 

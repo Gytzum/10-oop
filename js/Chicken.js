@@ -10,6 +10,7 @@ class Chicken extends Birds{
     constructor (name,color){
         super (name, color)
         this.sound = 'Cip cip';
+        this.canFly = false;
     }
 }
 
